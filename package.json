@@ -1,0 +1,33 @@
+{
+    "name": "user",
+    "version": "1.0.0",
+    "description": "Web 504 assessment",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/godaragarvit/sdv.git"
+    },
+    "author": "Garvit Godara",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/godaragarvit/sdv/issues"
+    },
+    "homepage": "https://github.com/godaragarvit/sdv#readme",
+    "keywords": [
+      "Web",
+      "504",
+      "assessment"
+    ],
+    "dependencies": {
+      "firebase": "^11.0.1",
+      "python": "^0.0.4",
+      "user": "file:"
+    },
+    "devDependencies": {
+      "jest": "^29.7.0"
+    }
+  }
+  
