@@ -196,4 +196,7 @@ const config: Config = {
   // watchman: true,
 };
 
-export default config;
+export default {
+  preset: 'ts-jest',
+  // ... other Jest configuration
+};
